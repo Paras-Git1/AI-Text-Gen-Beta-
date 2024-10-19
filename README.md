@@ -8,8 +8,8 @@ Users can input their own text corpus, which will be preprocessed and used to tr
 ## **Installation Instructions**  
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone <>
+   cd <>
 
 ## **Features**
 Character-Based Text Generation: Generates text by predicting each character one by one.
